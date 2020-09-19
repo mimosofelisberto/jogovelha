@@ -1,0 +1,19 @@
+#conteudo{
+    position: relative;
+    background-color: blanchedalmond;
+    width: 50%;
+    left: 25%;
+    top:5%;
+}
+.peca{
+
+    border: 2px solid #333;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: "Roboto", sans-serif;
+    font-size: 120px;
+    cursor: pointer;
+    display: inline-grid;
+}
